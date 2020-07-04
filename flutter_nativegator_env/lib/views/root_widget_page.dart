@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutternativegatorenv/home/homepage.dart';
-import 'package:flutternativegatorenv/mine/minepage.dart';
-import 'package:flutternativegatorenv/other/otherpage.dart';
+import 'package:flutternativegatorenv/views/homepage.dart';
+import 'package:flutternativegatorenv/views/minepage.dart';
+import 'package:flutternativegatorenv/views/otherpage.dart';
 
 class RootWidgetPage extends StatefulWidget {
   @override

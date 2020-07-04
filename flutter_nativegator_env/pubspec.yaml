@@ -28,7 +28,7 @@ dependencies:
   package_info: ^0.4.0+10
   path_provider: ^1.6.5
   dio: ^3.0.4
-
+  fluro: ^1.6.3
   cache:
     git:
       url: https://github.com/wya-team/flutter_wya.git
